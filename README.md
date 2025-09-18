@@ -19,15 +19,12 @@ The goal of this project is to build an image classification model that can accu
 # 📂 Dataset
 
 The dataset was manually organized into three subsets:<br>
-
-Training set → Used to train the model<br>
 https://drive.google.com/drive/folders/1G9rDx83RBCtfUSq9yylFFKP-BnDrfCSd?usp=sharing
+Training set → Used to train the model<br>
 
 Validation set → Used to tune hyperparameters and avoid overfitting<br>
-https://drive.google.com/drive/folders/1qsfByCa8oZqsBY-4oSnihSXsR5VUzJH8?usp=sharing
 
 Test set → Used for evaluating final model performance<br>
-https://drive.google.com/drive/folders/1N2udVp6Qq5n4EDJlWZnr1p6OCYI7uqaJ?usp=sharing
 
 Number of classes: 36<br>
 Examples: apple, banana, beetroot, carrot, tomato, watermelon, etc.<br>
