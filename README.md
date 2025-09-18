@@ -19,7 +19,7 @@ The goal of this project is to build an image classification model that can accu
 # 📂 Dataset
 
 The dataset was manually organized into three subsets:<br>
-https://drive.google.com/drive/folders/1G9rDx83RBCtfUSq9yylFFKP-BnDrfCSd?usp=sharing
+https://drive.google.com/drive/folders/1G9rDx83RBCtfUSq9yylFFKP-BnDrfCSd?usp=sharing<br>
 Training set → Used to train the model<br>
 
 Validation set → Used to tune hyperparameters and avoid overfitting<br>
