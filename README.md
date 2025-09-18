@@ -12,15 +12,22 @@ The goal of this project is to build an image classification model that can accu
 ✅ Works with single image predictions as well as batch testing<br>
 ✅ Visualizes predictions with Matplotlib<br>
 
+# 🎥 Demo<br>
+
+👉 Watch the full demo here: 📌https://drive.google.com/file/d/1n18p3LyF5lWmsMB2bdLne7a-b4rnBfRI/view?usp=drivesdk <br>
+
 # 📂 Dataset
 
 The dataset was manually organized into three subsets:<br>
 
 Training set → Used to train the model<br>
+https://drive.google.com/drive/folders/1G9rDx83RBCtfUSq9yylFFKP-BnDrfCSd?usp=sharing
 
 Validation set → Used to tune hyperparameters and avoid overfitting<br>
+https://drive.google.com/drive/folders/1qsfByCa8oZqsBY-4oSnihSXsR5VUzJH8?usp=sharing
 
 Test set → Used for evaluating final model performance<br>
+https://drive.google.com/drive/folders/1N2udVp6Qq5n4EDJlWZnr1p6OCYI7uqaJ?usp=sharing
 
 Number of classes: 36<br>
 Examples: apple, banana, beetroot, carrot, tomato, watermelon, etc.<br>
